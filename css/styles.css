@@ -147,6 +147,33 @@ body
   margin-bottom: 10px;
 }
 
+.C3
+{
+  background-color: #E5E7EB;
+  padding: 30px;
+}
+
+.C3-container
+{
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+}
+
+.C3-quote
+{
+  font-size: 36px;
+  color: #1F2937;
+  font-weight: 300;
+  margin-bottom: 15px;
+}
+
+.C3-quotee
+{
+  font-weight: 900;
+  color: #1F2937;
+  text-align: end;
+}
 
 
 .footer
